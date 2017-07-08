@@ -1,2 +1,2 @@
 # Interviewbit
-Solutions ti interviewbit problems
+Solutions to interviewbit problems
