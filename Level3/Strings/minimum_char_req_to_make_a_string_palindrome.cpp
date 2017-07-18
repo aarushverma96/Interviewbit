@@ -46,6 +46,4 @@ int Solution::solve(string A) {
 
 	return (A.length()-lps.back());
 
-
-
 }
