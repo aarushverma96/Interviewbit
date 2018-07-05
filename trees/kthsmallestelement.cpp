@@ -37,12 +37,6 @@ int Solution::kthsmallest(TreeNode* A, int B)
       s.push_back(curr);
       curr=curr->left;
     }
-
-
-
-
-
-
   }
 
   return sol[B-1];
